@@ -6,7 +6,7 @@ const Slider = () => {
     {
       id: "1",
       src:
-        "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/327994667_740586874345209_7293779388020867067_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=qaLs8uPOjUkAX-yeQp1&_nc_ht=scontent.fsgn1-1.fna&oh=00_AfCM-GFC0FiWTMnb8w4sCWcOhHnz6Y5uToKPESQJer3YKw&oe=640ADAC7",
+        "http://lav2.gq/DOAN_WEB/images/n4.jpg",
     },
     {
       id: "2",
