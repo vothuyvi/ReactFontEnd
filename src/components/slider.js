@@ -6,7 +6,7 @@ const Slider = () => {
     {
       id: "1",
       src:
-        "http://lav2.gq/DOAN_WEB/images/n4.jpg",
+        "https://dhfoods.com.vn/vnt_upload/weblink/Banner_De_Dang_mua_sam_san_pham_Dh_Foods_Banner_dai_De_dang_mua_sam_san_pham_Dh_Foods.jpg",
     },
     {
       id: "2",
