@@ -11,7 +11,7 @@ const Slider = () => {
     {
       id: "2",
       src:
-        "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/287514357_2483316665143881_6916839569090397977_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=u2WbGiJ6SqQAX95Ykda&_nc_ht=scontent.fsgn1-1.fna&oh=00_AfCiYVQPKjNE6uQGGV1tB5-FgBhnl03KLFvWeo5YsfpMUg&oe=6409D265",
+        "https://dhfoods.com.vn/vnt_upload/news/10_2020/mon-ngon-5.jpg",
     },
     {
       id: "3",
