@@ -7,7 +7,7 @@ const Slidersmall = () => {
     {
       id: "1",
       src:
-        "http://lav2.gq/DOAN_WEB/images/n4.jpg",
+         "https://dhfoods.com.vn/vnt_upload/about/__Cau_chuyen_thuong_hieu_Dh_Foods.jpg",
     },
     {
       id: "2",
