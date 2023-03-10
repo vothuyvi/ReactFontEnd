@@ -16,7 +16,7 @@ const Slider = () => {
     {
       id: "3",
       src:
-        "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/295129132_2520919021383645_5500596688735417102_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Jsv3ONg4fM0AX_A6FkQ&_nc_ht=scontent.fsgn1-1.fna&oh=00_AfCNDCRJ27vLhZllC6_98ioUygPSckAr4N5fHgpPtxHztA&oe=640B0600",
+        "https://dhfoods.com.vn/vnt_upload/news/10_2020/dhfoods-kham-pha-gia-vi.jpg",
     },
     {
       id: "4",
@@ -26,7 +26,7 @@ const Slider = () => {
     {
       id: "5",
       src:
-        "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/239639557_2243098279165722_5240683481188537716_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=vQR0UnQEZZYAX_XXYfi&_nc_ht=scontent.fsgn1-1.fna&oh=00_AfAR0vnwihBcsJgABo0pzh218LkdZDeKhrQzQ4VlNJWV2A&oe=6409CCDA",
+        "https://dhfoods.com.vn/vnt_upload/news/12_2022/Gio_qua_gia_vi_Tet_Dh_Foods_cover_dai.jpg",
     },
   ];
   return (
