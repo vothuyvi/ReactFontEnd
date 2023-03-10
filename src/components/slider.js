@@ -6,7 +6,7 @@ const Slider = () => {
     {
       id: "1",
       src:
-        "https://dhfoods.com.vn/vnt_upload/weblink/Banner_De_Dang_mua_sam_san_pham_Dh_Foods_Banner_dai_De_dang_mua_sam_san_pham_Dh_Foods.jpg",
+        "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/299426239_2542302205911993_1811122231372311514_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=OTK4m4mMiPMAX8aVrqX&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfApyBt_lKE636PDiR_pzKFTLoXQl2Iz57Y6Wb73S7DUKw&oe=64114576",
     },
     {
       id: "2",
