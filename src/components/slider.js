@@ -21,7 +21,7 @@ const Slider = () => {
     {
       id: "4",
       src:
-        "https://dhfoods.com.vn/vnt_upload/about/__Cau_chuyen_thuong_hieu_Dh_Foods.jpg",
+        "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/327994667_740586874345209_7293779388020867067_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=LNG9yU26geAAX_FO3HF&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfAvcXmpGOtoVHD3Q6TTvWFk_o10WQVxTJPQrm8iObKKsw&oe=6410C987",
     },
     {
       id: "5",
