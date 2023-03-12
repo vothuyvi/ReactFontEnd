@@ -7,17 +7,17 @@ const Slidersmall = () => {
     {
       id: "1",
       src:
-          "http://lav2.gq/DOAN_WEB/images/n4.jpg",
+          "https://dhfoods.com.vn/vnt_upload/news/05_2020/thumbs/740_fw_web-avata-muoi-tom-tay-ninhr.png",
     },
     {
       id: "2",
       src:
-        "http://lav2.gq/DOAN_WEB/images/n2.jpg",
+        "https://dhfoods.com.vn/vnt_upload/news/12_2018/thumbs/740_fw_ca-chem-sot-chanh-day.png",
     },
     {
       id: "3",
       src:
-        "http://lav2.gq/DOAN_WEB/images/n3.jpg",
+        "https://dhfoods.com.vn/vnt_upload/news/06_2020/thumbs/740_fw_gia-vi-mac-mat.png",
     },
   ];
   return (
